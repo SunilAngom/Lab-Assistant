@@ -1,9 +1,10 @@
+import streamlit as st
 from groq import Groq
 
 # ===============================
 # GROQ API KEY
 # ===============================
-groq = Groq(api_key="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")  # replace with your key
+groq = Groq(api_key=st.secrets["GROQ_API_KEY"])  # replace with your key
 
 # ===============================
 # LOAD NIELIT KNOWLEDGE
