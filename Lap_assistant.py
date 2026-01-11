@@ -1,5 +1,6 @@
 import streamlit as st
-from groq import Groq
+import requests
+import json
 
 # ===============================
 # PAGE CONFIG
@@ -14,15 +15,13 @@ st.set_page_config(
 # LOAD NIELIT KNOWLEDGE
 # ===============================
 with open("nielit_knowledge.txt", "r", encoding="utf-8") as f:
-    NIELIT_KNOWLEDGE = f.read()
-
-# limit knowledge size (important for free tier)
-NIELIT_KNOWLEDGE = NIELIT_KNOWLEDGE[:3000]
+    NIELIT_KNOWLEDGE = f.read()[:3000]
 
 # ===============================
-# GROQ CLIENT (FROM SECRETS)
+# GROQ API SETTINGS
 # ===============================
-groq = Groq(api_key=st.secrets["GROQ_API_KEY"])
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # ===============================
 # SYSTEM PROMPT
@@ -55,15 +54,11 @@ st.title("🤖 NIELIT Imphal AI Assistant")
 st.caption("India AI Lab • NIELIT Imphal")
 
 # ===============================
-# DISPLAY CHAT HISTORY
+# DISPLAY CHAT
 # ===============================
 for msg in st.session_state.messages[1:]:
-    if msg["role"] == "user":
-        with st.chat_message("user"):
-            st.write(msg["content"])
-    else:
-        with st.chat_message("assistant"):
-            st.write(msg["content"])
+    with st.chat_message(msg["role"]):
+        st.write(msg["content"])
 
 # ===============================
 # USER INPUT
@@ -71,21 +66,24 @@ for msg in st.session_state.messages[1:]:
 user_input = st.chat_input("Ask about NIELIT Imphal...")
 
 if user_input:
-    # show user message
     st.session_state.messages.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.write(user_input)
 
-    # get AI response
+    payload = {
+        "model": "llama-3.1-8b-instant",
+        "messages": st.session_state.messages
+    }
+
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json"
+    }
+
     with st.spinner("Thinking..."):
-        response = groq.chat.completions.create(
-            model="llama-3.1-8b-instant",
-            messages=st.session_state.messages
-        )
+        response = requests.post(GROQ_URL, headers=headers, json=payload)
+        reply = response.json()["choices"][0]["message"]["content"]
 
-        reply = response.choices[0].message.content
-
-    # save & show assistant message
     st.session_state.messages.append({"role": "assistant", "content": reply})
     with st.chat_message("assistant"):
         st.write(reply)
