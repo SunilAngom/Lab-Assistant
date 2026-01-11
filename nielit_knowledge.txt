@@ -4,7 +4,7 @@ INFORMATION TECHNOLOGY
 (A Constituent Unit of NIELIT Deemed to be University)
 An Autonomous Scientific Society of Minisstry of Electronics & Information Technology (MeitY), Govt. of India
 Akampat, Imphal - 795001
-FOR  MORE INFORMATION https://nielit.gov.in/imphal        dir-imphal@nielit@nielit.gov.in
+FOR  MORE INFORMATION https://https://nielit.ac.in      dir-imphal@nielit@nielit.gov.in
 
 3
 NIELIT Deemed to be University, Imphal
@@ -1668,3 +1668,4 @@ INFORMATION TECHNOLOGY
 (A Constituent Unit of NIELIT Deemed to be University)
 An Autonomous Scientific Society of Minisstry of Electronics & Information Technology (MeitY), Govt. of India
 Akampat, Imphal - 795001
+
