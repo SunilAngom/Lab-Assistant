@@ -6,7 +6,7 @@ import json
 # PAGE CONFIG
 # ===============================
 st.set_page_config(
-    page_title="NIELIT Imphal AI Assistant",
+    page_title="NIELIT Imphal AI Lab Assistant",
     page_icon="🤖",
     layout="centered"
 )
