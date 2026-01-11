@@ -15,7 +15,7 @@ st.set_page_config(
 # LOAD NIELIT KNOWLEDGE
 # ===============================
 with open("nielit_knowledge.txt", "r", encoding="utf-8") as f:
-    NIELIT_KNOWLEDGE = f.read()[:3000]
+    NIELIT_KNOWLEDGE = f.read()[:9000]
 
 # ===============================
 # GROQ API SETTINGS
