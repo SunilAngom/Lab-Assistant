@@ -1,0 +1,1670 @@
+PROSPECTUS
+2025-2026NATIONAL INSTITUTE OF ELECTRONICS & 
+INFORMATION TECHNOLOGY
+(A Constituent Unit of NIELIT Deemed to be University)
+An Autonomous Scientific Society of Minisstry of Electronics & Information Technology (MeitY), Govt. of India
+Akampat, Imphal - 795001
+FOR  MORE INFORMATION https://nielit.gov.in/imphal        dir-imphal@nielit@nielit.gov.in
+
+3
+NIELIT Deemed to be University, Imphal
+16 DIPLOMA COURSES14 CURRICULUM FOR FORMAL COURSES15 SCHOLARSHIP SCHEME14 FEES STRUCTURE13  COURSES AT VARIOUS EXT. CENTERS13  INDIA  AI COURSES12  SHORT TERM COURSES12  NSQF ALIGNED SHORT TERM COURSES12  LONG TERM COURSES (NON-FORMAL)12  FORMAL  UNIVERSITY COURSESCOURSES OFFERED11CORE COMPETENCIES & FACILITIES  9 ABOUT NIELIT IMPHAL8 NIELIT SOCIETY6 FROM THE DESK OF EXECUTIVE DIRECTORCONTENTS
+5
+NIELIT Deemed to be University, Imphal64VARIOUS TRAINNING SESSIONS AND ACTIVITIES 
+THROUGH THE YEARS62 NIELIT ACHIEVERS56 HOW TO APPLY FOR ADMISSION53 NIELIT SENAPATI EXT. CENTER50 NIELIT CHURACHANDPUR EXT. CENTER48 EXTRACURRICULAR ACTIVITIES48 WORKING HOUR AND HOLIDAY46 HOSTEL FACILITIES44 PLACEMENTS44 DRONE BOOT CAMP FOR GRADUATE & DIPLOMA  
+ STUDENTS
+43CURRICULUM FOR JOB ORIENTED
+ POST GRADUATE DIPLOMA IN UAV SYSTEM  
+ PROGRAMMING37  CCC
+DRONE/UNMANNED AIRCRAFT SYSTEM36
+42 BCC
+ PMKVY35
+38 ACC
+ FUTURESKILL PRIMEDIGITAL LITERACY COURSES34  CHMT34  O-LEVEL ITCURRICULUM FOR NON-FORMAL COURSES30  PHD IN ENGG. AND COMPUTER APPLICATION28  M.T ech AI26  M.S c PROGRAMME24  MCA22  B.S c COMPUTER SCIENCE20  BCA18  PGDCA
+69 ANNEXURE 1
+6 7
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26• All regular scholarships provided by Govt.
+We seek dynamic partners to join us in our mission to enhance livelihoods and empower 
+youth through reskilling initiatives. We invite professionals, startups, and institutions to 
+collaborate with us and explore impactful business opportunities that can significantly 
+improve the lives of young individuals and empower the next generation. We encourage 
+you to submit your Expressions of Interest (EoI) to make a meaningful difference together.
+I am confident that all students will succeed remarkably in their career pursuits.
+Over the years, NIELIT courses have benefited a number of students and its popularity 
+has been increasing. So far, the institution has 6055 students in Formal University affiliated 
+courses and 6955 in Non- Formal NIELIT Courses. A total of 100100 (including formal, 
+non- formal, Digital Literacy and short-term courses) candidates have been trained since 
+its inception in the year 1989.The National Institute of Electronics and Information Technology 
+(NIELIT) operates under the administrative control of the Ministry 
+of Electronics and Information Technology (MeitY), Government 
+of India. We empower every corner of our nation and reach out 
+to diverse communities. Our mission is to train many competent 
+professionals, addressing industry demands while supporting 
+transformative initiatives like ‘Digital India’, ‘Skill India’, and ‘Make in India’. We offer 
+training in both formal and non-formal education at various levels .
+Formal Education/University degrees:
+• PhD in Computer Science and Engineering (CSE) and Applications 
+• MTech (CSE) in Artificial Intelligence
+• Master of Computer Application (MCA)
+• M.Sc. in Information Technology
+• M.Sc. in Bioinformatics
+• Bachelor of Computer Applications (BCA)
+• B.Sc. in Computer Science
+• Diploma in Computer Science and Engineering (DCSE)
+• Diploma in Electronics and Communication Engineering (DECE)
+Regular Skilling Courses:
+• Digital literacy foundations (ACC, BCC, CCC, etc.) to advanced level (O/A/B level)
+• Industry offerings: Drone Tech., AI, Data Analytics, Cloud computing, IoT,  
+Blockchain, VLSI design etc.
+• Specialized corporate training and courses focused on livelihood, startups, and 
+self-employment.
+Facilities for Learners:
+• Electronics & Communication Lab, Hardware & Networking Lab,
+• R&D Labs for IoT, AI, VLSI etc
+• Hostels for boys and girls
+• Regular Expert talks from Industry experts
+• Startup facilities and working under some of the current projects
+• STEM learning/Mobile Labs for School students
+• “Learn and Earn” facilities for selected candidatesFROM THE DESK OF EXECUTIVE DIRECTOR
+PROF (DR.) YUMNAM JAYANTA SINGH
+EXECUTIVE DIRECTOR
+NIELIT IMPHAL
+PROF (DR.) YUMNAM JAYANTA SINGH
+EXECUTIVE DIRECTOR
+8 9
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26NIELIT SOCIETY
+National Institute of Electronics & Information Technology (NIELIT),(erstwhile DOEACC 
+Society), an Autonomous Scientific Society under the administrative control of Ministry 
+of Electronics & Information Technology (MoE&IT), Government of India, was set up to 
+carry out Human Resource Development and related activities in the area of Information, 
+Electronics & Communications Technology (IECT). NIELIT is engaged both in Formal 
+& Non-Formal Education in the area of IECT besides development of industry oriented 
+quality education and training programmes in the state-of-the-art areas. NIELIT has 
+endeavoured to establish standards to be the country’s premier institution for Examination 
+and Certification in the field of IECT. It is also one of the National Examination Body, which 
+accredits institutes/organizations for conducting courses in IT in the non-formal sector.
+As on date, NIELIT has forty seven (47) centers located at Agartala, Aizawl, Ajmer, 
+Alawalpur (Saksharta Kendra), Aurangabad, Bhubaneswar, Calicut, Chandigarh, Chennai, 
+Chuchuyimlang, Churachandpur, Daman, Delhi, Dibrugarh, Dimapur, Gangtok, Gorakhpur, 
+Guwahati, Haridwar, Imphal, Itanagar, Jammu, Jorhat, Kargil, Kohima, Kolkata, Kokrajhar, 
+Kurukshetra, Lakhanpur (Saksharta Kendra), Leh, Lucknow, Lunglei, Majuli, Mandi, 
+Pasighat, Patna, Pali, Ranchi, Ropar, Senapati, Shillong, Shimla, Silchar, Srinagar, Tezpur, 
+Tura and Tezu with its Headquarters at New Delhi. It is also well networked throughout 
+India with the presence of about 700 + institutes.
+Over the last two decades, NIELIT has acquired very good expertise in IT training, through 
+its wide repertoire of causes, ranging from ‘O’ Level (Foundation), ‘A’ Level (Advance 
+Diploma), ‘B’ Level (MCA equivalent), ‘C’ Level (M-Tech level), IT literacy courses such 
+as CCC (Course on Computer Concept), BCC (Basic Computer Course) and other such 
+long term and short term course in the non-formal sector like courses on Information 
+Security, ITeS-BPO(Customer Care/Banking), Computer Hardware Maintenance (CHM-
+O/A level), Bio-Informatics(BI-O/A/B level), ESDM etc, besides, high end courses offered 
+by NIELIT Centres at Post-Graduate level (M.Tech) in Electronics Design & Technology, 
+Embedded Systems etc. which are not normally offered by Universities/Institutions in the 
+formal sector, in association with the respective state Universities.
+ The basket of activities of NIELIT is further augmented by the wide range of projects 
+that it undertakes. NIELIT has demonstrated its capability and capacity to undertake 
+R&D projects, consultancy services, turnkey projects in office automation, software 
+development, website development etc. NIELIT is also the nodal implementing agency on 
+behalf of MeitY for Data Digitization of the population of 15 assigned States and 2 Union 
+Territories for the creation of National Population Register (NPR) project of Registrar 
+General of India (RGI).
+NIELIT is also successfully executing the Agriculture Census and Input Survey project 
+under which tabulation of about 10 crore data records have to be done. NIELIT has 
+planned a roadmap for adopting appropriate pedagogy for metamorphosing NIELIT into 
+an Institute of National Importance.
+NIELIT Imphal was founded on October 1, 1988. The Centre became operational in July 
+1989 with the introduction of Three Years Diploma in Electronics Engineering Course. With 
+the merging of all CEDTIs with DOEACC Society on 14th December 2002, all erstwhile 
+CEDTIs’ have been renamed as DOEACC Centres, now as NIELIT (National Institute of 
+Electronics and Information Technology) Imphal.
+Spread over an area of more than 24 acres, it houses the main Institute Building consisting of 
+Administrative wing, Seminar Hall, Lecture Halls, Computer Labs, Mechanical Workshop, 
+Electro- medical Laboratory, PCB Lab, Servicing cell, Cyber Forensic Lab, IT Security 
+Lab, Embedded System & IoT Lab, Big Data Analytics Lab, AR/VR lab, Multimedia Lab, 
+Industry Ready Training Lab, Drone Electronics Lab and other laboratories. Besides the 
+institute’s main building, the campus houses the staff quarters, students’ hostels, guest 
+house, electrical substation and other host of essential facilities.
+The campus of NIELIT Imphal is located at Akampat, Imphal East, Manipur about 5 kms in 
+the south-east direction from the heart of the city. It is about 0.5 Km away from Singjamei 
+Market.ABOUT NIELIT IMPHAL
+10 11
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Imphal, the capital of Manipur, nestles in the shadow of hills at the far north-east of the 
+country. It is well connected by air with Kolkata, Guwahati, Aizawl, Agartala, New Delhi, 
+Bangalore and Hyderabad. The nearest railway stations are Dimapur (215 km) and Jiribam 
+(210 km) besides connected by national highways No. 2, 37 and 150. Manipur state in 
+which the institute is located has a number of tourist spots. It is also the gateway to the 
+prosperous economies of South-East ASEAN Countries – the border town of Tamu in 
+Myanmar which is 103 kms away from Imphal.
+There are 12 nos. of standard Computer Labs under Local Area Network system along with 
+specialized “Cyber Security & Networking”, “Embedded System & IoT”, “Nano Technology” 
+and “Augmented Reality & Virtual Reality” Labs. All labs are well equipped with branded 
+desktop PCs, well furnish Tables & Chairs with Projector Display. All the PCs are provided 
+internet connection through NKN network. The Institute assigned one computer to one 
+student for training.
+The Institute has also well-equipped labs in Electronics & allied fields labs – “Communication 
+Engineering”, “Design & Fabrication of PCB”, “Electro-Medical”, “Power Electronics and 
+Test & Measurement”, “Solar Energy” etc.
+Apart from labs, the Institute has Mechanical Workshop, Library (with digital library facility), 
+150 seats capacity Seminar Hall, Multipurpose Hall and Indoor Basketball hall.NIELIT Imphal specializes in development of skill in the fields of Electronics & 
+Communication Engineering and Information Technology through various long term and 
+short term courses. NIELIT Imphal also implements various PMKVY skill development 
+courses in the field of IT, Electronics, Renewable energy etc. The Institute also focus 
+on skill development & re-skilling in emerging technologies viz. Cyber Security & Cyber 
+Forensic, Big Data Technologies, AR/VR, Blockchain, Internet of Things, Drone Electronics 
+and Machine Learning and Artificial Intelligence (AI) etc.
+The Centre is competent in the following areas:
+1. Cyber Security & Cyber Forensic
+2. Medical Electronics
+3. Embedded System & IoT
+4. Big Data Analytics
+5. Augmented Reality & Virtual Reality
+6. Blockchain
+7. Renewable Energy
+8. Computer Networking & Security
+9. Advanced Multimedia
+10. Machine Learning and Artificial Intelligence (AI)1. CORE COMPETENCIES
+2. FACILITIES
+NIELIT CAMPUS
+12 13
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-263. COURSE OFFERED
+3.1 FORMAL UNIVERSITY COURSES
+3.4 SHORT TERM COURSES3.2 LONG TERM COURSES (NON-FORMAL)
+3.3 NSQF ALIGNED SHORT TERM COURSESSl.Name of the Course Duration Intake
+1Master of Technology in Artificial Intelligence (M.Tech AI) 2 years 30
+2Master in Computer Applications(MCA) 2 years 60
+3Master of Science in Bioinformatics 2 years 30
+4Master of Science in Information Technology (M.Sc. IT) 2 years 40
+5Bachelor of Computer Applications (BCA) 4 years 180
+6Bachelor of Science in Computer Science (B.Sc.CS) 3 years 60
+7Post Graduate Diploma in Computer Application(PGDCA) 1 year 50
+8Diploma in Computer Science & Engineering (DCSE) 3 years 60
+9Diploma in Electronics & Communication Engineering (DECE) 3 years 60
+Sl.Name of the Course Intake*
+1Machine Learning in Python 30/50
+2Computer Application, Accounting & Publishing 30/50
+3Multimedia Development 30/50
+4Big Data Analytics 30/50
+5BPO Expert 30/50
+6Faculty Development Programme on Big Data Analytics 30/50
+7Cyber Security 30/50
+8DCA I (Diploma in Computer Applications) 30/50
+9DCA II (Diploma in Computer Applications) 30/50
+10Course on Computer Concepts and Soft Skills 30/50
+11Bridge Course - Big Data Technology 30/50Sl.Name of the Course Duration Intake
+1O Level IT 1 years 100
+2CHMT 1 years 25
+Sl.Name of the Course Intake*
+1Advanced Diploma in Computer Application Accounting and
+Publishing30/50
+* No. of  Intake depends on the availablity of seats3.5 COURSES AT VARIOUS EXTENTION CENTERS
+3.6 RESERVATION1. M.Tech AI
+2. M.Sc Bioinformatics
+3. M.Sc IT
+4. MCA
+5. PGDCA
+6. B.Sc Computer Science7. BCA
+8. DCSE
+9. DECE
+10. O-Level IT
+11. CHMT
+1. PGDCA
+2. O-Level IT
+3. CHMT
+4. BSc. Computer Science1. PGDCA
+2. O-Level IT
+3. CHMTSENAPATI CHURACHANDPURIMPHAL
+15%, 7.5% and 27% of seats are reserved for SC, ST and OBC candidates respectively. 
+Other reservations include 3% for physically handicapped persons as per Govt. of India 
+rules. However, candidates applying against reserved seats will have to qualify in the 
+admission test.3.5 INDIA  AI COURSES
+Sl.Name of the Course Duration NSQL Level
+1Foundation of Artificial Intelligence Technology 90 hrs 3.5
+2Foundation of Data Science and Analytics 120 hrs 3.5
+3Foundation of Data Curation using Python 120 hrs 3.5
+4Foundation of Data Annotation using Python 120 hrs 3.5
+
+14 15
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Topper students and students who secured high marks in the University exams are 
+awarded every year. Students of NIELIT Imphal enjoy various scholarships extended by 
+UGC, North Eastern Council (NEC), State Governments and NIELIT Society.
+Central Sector Scheme
+1. All India Council for Technical Education (AICTE)
+• AICTE-Pragati Scheme for Girls’ (Technical Diploma)
+• Saksham Scholarship Scheme for Specially Abled Students (Technical Diploma)
+2. North East Council (NEC)
+• Financial Support to the Students of NER for Higher Professional Courses (NEC 
+Merit)
+3. UGC
+• Ishan Uday Special Scholarship Scheme for North-East Region (NER)
+• National Scholarship for Post Graduate Studies
+4. Department of Empowerment of Persons with Disabilities
+• Post Matric Scholarship for Students with Disabilities.
+State Scheme 
+1. Post Matric Scholarship for SC/ST Students-Manipur.
+2. Post Matric Scholarship for OBC Students-Manipur* Free Course Fee for ST/SC Students
+Fees comprises of following components at the time of admission.
+# Refundable only after course completion.4. FEES STRUCTURE
+FORMAL UNIVERSITY COURSES
+Course Name Tuition Fee
+(Per Semester)  
+Diploma
+DECE Rs. 27,000/-
+DCSE Rs. 27,000/-
+Under-Graduate
+B.Sc. Computer Science Rs. 25,000/-
+BCA Rs. 30,000/-
+Post-Graduate
+M.Tech AI Rs. 60,000/-
+M.Sc Bioinformatics Rs. 32,000/-
+M.Sc IT Rs. 32,000/-
+MCA Rs. 32,000/-
+PGDCA Rs. 25,000/-
+Ph.D Programs
+Ph.D in Engg. and Computer Applicaations Rs. 65,000/-
+FEE STRUCTURE
+Admission Rs 5000/- At the time of admission
+Security Deposit #Rs 5000/- At the time of admission
+Academic Fee
+(Including Student development 
+Fee, ID card and Library Card 
+Fee, MarksSheet and Certificate 
+Printing, etc)Rs 5000/- Chargeable in every odd 
+semester
+Tuition fee per course if 
+student repeats a course25% of semester fee of 
+programme for each courseTuition fee for repeating 
+course should not exceed the 
+semester fee.5. SCHOLARSHIP SCHEME
+LIBRARY FACILITIES
+16 17
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26These Regulations shall be applicable to all Diploma programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of Diploma programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility
+1. Admission for Diploma in Electronics and Communication Engineering (DECE) 
+First Year
+2. Admission for Diploma in Computer Science and Engineering (DCSE) First Year
+Candidate must have passed 10th examination or equivalent from recognized 
+Board along with science as compulsory subject with 50% (45% for SC/ST and PwD 
+candidates) marks.
+3. Admission for Diploma in DECE/DCSE Second Year through Lateral Entry 
+Scheme 
+Candidate must have passed 10+2 examination or equivalent from recognized Board 
+along with any three subjects out of Physics / Mathematics / Chemistry/ Computer 
+Science/ Electronics/ Information Technology/ Biology/ Informatics Practices/ 
+Biotechnology/ Technical Vocational subject/ Engineering Graphics/ Business Studies/ 
+Entrepreneurship with 50% (45% for SC/ST and PwD candidates) marks.
+OR
+Candidate must have passed full time ITI of two years course in relevant area from a 
+recognized Board with 50%(45% for SC/ST and PwD candidates) marks.
+OR
+NIELIT ‘O’ Level
+* See Annexure 1 for Multiple Entry Multiple Exit.6. CURRICULUM FOR FORMAL COURSES
+6.1 DIPLOMA COURSES Entrance Test Scheme  
+Entrance exam scheme and mode of exam shall be published along with the advertisement 
+for admissions to various programmes.
+Selection Process for Admission
+1. Selection Process for Admission for Diploma in Electronics and Communication 
+Engineering (DECE) and Diploma in Computer Science and Engineering (DCSE) First 
+Year
+1. Only the Candidates meeting the minimum eligibility criteria will be eligible for 
+admission.
+2. The eligible candidates have to register online.
+3. The application fees will be as applicable.
+4. The seats will be filled on the basis of merit of Entrance Test conducted by NIELIT 
+Deemed to be University.
+5. Admission of the Selected Candidates will be subject to their verification of 
+Documents and payment of applicable fees.
+6. The category-wise Main List (selected) and Waiting List of the candidates on the 
+basis of entrance exam for admission to Diploma Programme will be displayed on 
+the website and Notice Boards of the University only.
+7. The selected main and waiting list candidates are required to register on the day as 
+notified along with the list of documents asked and by making payment, otherwise 
+their claim shall be forfeited.
+8. The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or 
+for bringing the original certificates from another place.
+9. Admission process of the Diploma Programme is completed when the approved 
+intake of candidates as per Seat Matrix are provisionally admitted and registered 
+or a time limit decided by the University is over, whichever is earlier.
+2. Admission for Diploma in Engineering Second Year through Lateral Entry Scheme.
+The seats will be filled on merit list generated on the basis of percentage of marks obtained 
+in the eligible qualification. 
+18 19
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Age Criteria
+There is no minimum age requirement.
+Entrance Test 
+1. Qualifying Entrance Test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared
+ 
+These Regulations shall be applicable to all PG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of PG programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility
+Passed any graduation degree (e.g.: B.E. / B.Tech./ B.Sc / B.Com. / B.A./ B. Voc./ BCA 
+etc. in commerce & management/ sciences/ mathematics/  statistics/ engineering) having 
+obtained at least 50% marks (45% for SC/ST & PWD) in graduation).
+OR
+NIELIT A Level with graduation. The students should have a minimum of 50% marks (45% 
+for SC/ST & PWD) in graduation).
+* Suitable bridge courses for the students coming from diverse backgrounds will be 
+mandatory
+* See Annexure 1 for Multiple Entry Multiple Exit.6.2 POST GRADUATE DIPLOMA IN COMPUTER APPLICATION 
+(PGDCA)Selection Process for Admission
+1. Only the Candidates meeting the minimum eligibility criteria will be eligible for 
+admission.
+2. The eligible candidates have to register online.
+3. The application fees will be as applicable from time to time.
+4. For engineering programmes, the seats will be filled through CCMT , wherever 
+applicable, and / or on the basis of valid GATE score in any one out of  IT, EC, EE, 
+IN, CSE, CS disciplines and / or on the basis of merit of entrance test conducted by 
+NIELIT Deemed to be University.
+5. Admission of the Selected Candidates will be subject to their verification of 
+Documents and payment of applicable fees.
+6. The category-wise Main List (selected) and Waiting List of the candidates on the 
+basis of entrance exam for admission to various programmes will be displayed on 
+the website and Notice Board of the University only.
+7. The waitlisted candidates, available at the time of counselling of the waiting list, shall 
+be provisionally admitted as per the merit of the category-wise waiting list.
+8. The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 
+bringing the original certificates from another place.
+9. Admission process of the various Course is completed when the approved intake 
+of candidates as per Seat Matrix are provisionally admitted and registered or a time 
+limit decided by the University is over, which-ever is earlier.
+ 
+Category Wise Reservation
+Seats are reserved as per Govt. of India Rules / AICTE / UGC and adopted by 
+University from time to time.
+Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme
+Entrance exam scheme and mode of exam shall be published along with the 
+advertisement for admissions to various programmes.
+20 21
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Entrance Test
+1. Qualifying entrance test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared.
+Course Category Wise Credit Distribution
+Category Credits
+Program Core 15
+Core Labs 6
+Electives/MOOC 6
+Electives Labs 0
+Audit Course 0
+Open Electives 0
+Project / Dissertation 15
+Total Credit 42
+These Regulations shall be applicable to all UG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of UG programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility
+Must have completed their secondary education (10+2) from a recognized board or 
+institution in any stream.
+Category Wise Reservation
+Seats are reserved as per Govt. of India Rules / AICTE / UGC and adopted by University 
+from time to time.Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme
+Entrance exam scheme and mode of exam shall be published along with the 
+advertisement for admissions to various programmes.
+Entrance Test
+1. Qualifying Entrance Test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared.
+Selection Process for Admission for 1st year BCA
+• Only the Candidates meeting the minimum eligibility criteria will be eligible for admission.
+• The eligible candidates have to register online.
+• The application fees will be as applicable.
+• The seats shall be filled through JOSAA /CSAB counselling, where applicable and / or 
+on the basis of merit of Entrance Test conducted by NIELIT Deemed to be University.
+• Admission of the Selected Candidates will be subject to their verification of Documents 
+and payment of applicable fees.
+• The category-wise Main List (selected) and Waiting List of the candidates on the basis 
+of entrance exam for admission to UG Programme will be displayed on the website 
+and Notice Boards of the University only.
+• The selected main and waiting list candidates are required to register on the day as 
+notified along with the list of documents asked and by making payment, otherwise their 
+claim shall be forfeited.
+• The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 6.3 BACHELOR OF COMPUTER APPLICATION (BCA)
+22 23
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26These Regulations shall be applicable to all UG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of UG programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility
+Passed 10+2 examination with any three subjects out of Physics / Mathematics / Chemistry/ 
+Computer Science/ Electronics/ Information Technology/ Biology/ Informatics Practices/ 
+Biotechnology/ Technical Vocational subject/ Engineering Graphics/ Business Studies/ 
+Entrepreneurship with at least 50% marks (45% marks in case of candidates belonging to 
+reserved category) in the above subjects taken together. 
+OR
+Passed D.Voc. Stream in the same or allied sector.
+Or
+NIELIT ‘0’ Level
+* Suitable bridge courses for the students coming from diverse backgrounds will be 6.4 BACHELOR OF COMPUTER SCIENCE (B.SC COMPUTER SCIENCE) bringing the original certificates from another place.
+• Admission process of the UG Programme is completed when the approved intake of 
+candidates as per Seat Matrix are provisionally admitted and registered or a time limit 
+decided by the University is over, which- ever is earlier.
+Curriculum Structure
+• The UG programmes of the University shall be based on flexible Choice-Based Credit 
+System (CBCS), multidisciplinary approach, and Multiple Entry and Exit options.
+• All the programme of the University shall have well defined Programme Educational 
+Objectives (PEOs), Programme Outcome (PO), Programme Specific Outcome (PSO) 
+and Course Outcomes (CO).
+• A course shall comprise lectures, tutorials, laboratory work, field work, outreach 
+activities, project work, vocational training, viva, seminars, term papers, assignments, 
+presentations etc. or a combination of some of these components.mandatory
+* See Annexure 1 for Multiple Entry Multiple Exit.
+Category Wise Reservation
+Seats are reserved as per Govt. of India Rules / AICTE / UGC and adopted by University 
+from time to time.
+Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme
+Entrance exam scheme and mode of exam shall be published along with the 
+advertisement for admissions to various programmes.
+Entrance Test
+1. Qualifying Entrance Test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared.
+Selection Process for Admission for 1st year B.Sc Computer Science
+• Only the Candidates meeting the minimum eligibility criteria will be eligible for 
+admission.
+• The eligible candidates have to register online.
+• The application fees will be as applicable.
+• The seats shall be filled through JOSAA /CSAB counselling, where applicable and / or 
+on the basis of merit of Entrance Test conducted by NIELIT Deemed to be University.
+• Admission of the Selected Candidates will be subject to their verification of Documents 
+and payment of applicable fees.
+24 25
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26• The category-wise Main List (selected) and Waiting List of the candidates on the basis 
+of entrance exam for admission to UG Programme will be displayed on the website 
+and Notice Boards of the University only.
+• The selected main and waiting list candidates are required to register on the day as 
+notified along with the list of documents asked and by making payment, otherwise their 
+claim shall be forfeited.
+• The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 
+bringing the original certificates from another place.
+• Admission process of the UG Programme is completed when the approved intake of 
+candidates as per Seat Matrix are provisionally admitted and registered or a time limit 
+decided by the University is over, which- ever is earlier.
+Curriculum Structure
+• The UG programmes of the University shall be based on flexible Choice-Based Credit 
+System (CBCS), multidisciplinary approach, and Multiple Entry and Exit options.
+• All the programme of the University shall have well defined Programme Educational 
+Objectives (PEOs), Programme Outcome (PO), Programme Specific Outcome (PSO) 
+and Course Outcomes (CO).
+• A course shall comprise lectures, tutorials, laboratory work, field work, outreach 
+activities, project work, vocational training, viva, seminars, term papers, assignments, 
+presentations etc. or a combination of some of these components.
+These Regulations shall be applicable to all UG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of UG programmes, 
+as proposed by the respective BoS, can be added/deleted with the approval of the 
+Executive Council on the recommendation of the Academic Council of the University.  
+ 
+Eligibility
+Passed any graduation degree (e.g.: B.E. / B.Tech./ B.Sc / B.Com. / B.A./ B. Voc./ BCA 6.5 MASTER OF COMPUTER APPLICATION (MCA)etc.,) preferably with Mathematics at 10+2 level or at Graduation level with at least 50% 
+marks (45% marks in case of candidates belonging to reserved category.
+(for students having no Mathematics background, bridge course shall be mandatory)
+* See Annexure 1 for Multiple Entry Multiple Exit.
+Category Wise Reservation
+Seats are reserved as per Govt. of India Rules / AICTE / UGC and adopted by University 
+from time to time.
+Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme
+Entrance exam scheme and mode of exam shall be published along with the advertisement 
+for admissions to various programmes.
+Entrance Test
+1. Qualifying entrance test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared.
+Selection Process for Admission to 1st year MCA
+• Only the Candidates meeting the minimum eligibility criteria will be eligible for admission.
+• The eligible candidates have to register online.
+• The application fees will be as applicable from time to time.
+• For engineering programmes, the seats will be filled through CCMT, wherever 
+applicable, and / or on the basis of valid GATE score in any one out of  IT, EC, EE, 
+26 27
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26These Regulations shall be applicable to all UG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of UG programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility 
+1. Bioinformatics (M.Sc Bioinformatics)
+2. Information Technology (M.Sc IT)
+Passed any graduation degree (e.g.: B.E. / B.Tech./ B.Sc / B.Com. / B.A./ B. Voc./ BCA 
+etc. in commerce & management/ sciences/ mathematics/  statistics/ engineering) 
+having obtained at least 50% marks (45% for SC/ST & PWD) in graduation).
+OR
+NIELIT A Level with graduation. The students should have a minimum of 50% marks 
+(45% for SC/ST & PWD) in graduation).6.6 MASTER OF COMPUTER SCIENCE (M.S c) PROGRAMME* See Annexure 1 for Multiple Entry Multiple Exit.
+Category Wise Reservation
+Seats are reserved as per Govt. of India Rules / AICTE / UGC and adopted by University 
+from time to time.
+Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme
+Entrance exam scheme and mode of exam shall be published along with the advertisement 
+for admissions to various programmes.
+Entrance Test
+1. Qualifying entrance test does not entitle a candidate to get admission.
+2. The cutoff of Entrance Test will be decided by University.
+3. Once the candidate has submitted the information on the website, any change in the 
+Form/information, including category once marked, shall not be allowed.
+4. The fee for the Entrance Test once paid shall not be refunded / transferred / adjusted.
+5. There shall be no negative marking.
+6. There shall be no re-evaluation/re-checking/re-assessment of Answer-Sheets once 
+result is declared.
+Selection Process for Admission to 1st year M.Sc. Programmes
+• Only the Candidates meeting the minimum eligibility criteria will be eligible for admission.
+• The eligible candidates have to register online.
+• The application fees will be as applicable from time to time.
+• For engineering programmes, the seats will be filled through CCMT, wherever 
+applicable, and / or on the basis of valid GATE score in any one out of  IT, EC, EE, 
+IN, CSE, CS disciplines and / or on the basis of merit of entrance test conducted by 
+NIELIT Deemed to be University.
+• Admission of the Selected Candidates will be subject to their verification of Documents IN, CSE, CS disciplines and / or on the basis of merit of entrance test conducted by 
+NIELIT Deemed to be University.
+• Admission of the Selected Candidates will be subject to their verification of Documents 
+and payment of applicable fees.
+• The category-wise Main List (selected) and Waiting List of the candidates on the basis 
+of entrance exam for admission to various programmes will be displayed on the website 
+and Notice Board of the University only.
+• The waitlisted candidates, available at the time of counselling of the waiting list, shall 
+be provisionally admitted as per the merit of the category-wise waiting list.
+• The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 
+bringing the original certificates from another place.
+• Admission process of the various Course is completed when the approved intake of 
+candidates as per Seat Matrix are provisionally admitted and registered or a time limit 
+decided by the University is over, whichever is earlier.
+28 29
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26and payment of applicable fees.
+• The category-wise Main List (selected) and Waiting List of the candidates on the 
+basis of entrance exam for admission to various programmes will be displayed on the 
+website and Notice Board of the University only.
+• The waitlisted candidates, available at the time of counselling of the waiting list, shall 
+be provisionally admitted as per the merit of the category-wise waiting list.
+• The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 
+bringing the original certificates from another place.
+• Admission process of the various Course is completed when the approved intake 
+of candidates as per Seat Matrix are provisionally admitted and registered or a time 
+limit decided by the University is over, whichever is earlier.
+These Regulations shall be applicable to all UG programmes conducted by the various 
+Faculties of the NIELIT Deemed to be University. Any number of UG programmes, as 
+proposed by the respective BoS, can be added/deleted with the approval of the Executive 
+Council on the recommendation of the Academic Council of the University.
+Eligibility
+A candidate seeking admission to M.Tech. (AI) shall satisfy the following conditions:  
+Passed B.E/ B.Tech with minimum 50% (45% for SC/ST & Disabled Persons Categories) 
+marks 
+OR
+Passed 4-Year Bachelor Degree with IT/ CS /Physics / Electronics / Maths with minimum 
+50% (45% for SC/ST & Disabled Persons Categories) marks
+OR
+Passed NIELIT B Level in relevant area with 50% aggregate marks (45% for SC/ST & 
+Disabled Persons Categories)
+OR
+Passed M.Sc. (IT /CS /Physics / Electronics / Maths) / MCA or equivalent degree with 50% 
+(45% for SC/ST & Disabled Persons Categories) marks6.7 MASTER OF TECHNOLOGY ARTIFICIAL INTELLIGENCE 
+(M.Tech AI)* See Annexure 1 for Multiple Entry Multiple Exit
+Age Criteria
+There is no minimum age requirement.
+Entrance Test Scheme 
+One objective type OMR based written test comprising 100 MCQs of 2 hours’ duration 
+will be conducted. The pattern will be as follows. 
+Selection Process for Admission for 1st year M. Tech AI
+• Only the Candidates meeting the minimum eligibility criteria will be eligible for 
+admission. 
+• For Non-Gate candidates admission to M.Tech program is based on basis of merit 
+of percentage of B.Tech. And for GATE pass candidates admission is based on the 
+merit of GATE score. 
+• The eligible candidates have to register online. 
+• The application fees will be as applicable from time to time.  
+• The seats will be filled on the basis of valid GATE score and on the basis of merit of 
+entrance test conducted by NIELIT Deemed to be University. 
+• Admission of the Selected Candidates will be subject to their verification of 
+Documents and payment of applicable fees. 
+• The category-wise Main List (selected) and Waiting List of the candidates for 
+admission to (year 2025-26) of M.Tech Course will be displayed on the website and 
+Notice Board of the University only. 
+• The waitlisted candidates, available at the time of counselling of the waiting list, shall 
+be provisionally admitted as per the merit of the category-wise waiting list. 
+• The candidates are required to produce all the originals certificates and fee at the 
+time of counselling. No relaxation in time will be given for arranging the money or for 
+bringing the original certificates from another place. 
+• Admission process of the M.Tech AI is completed when the approved intake of 
+candidates as per Seat Matrix are provisionally admitted and registered or a time limit 
+decided by the competent authority is over, whichever is earlier. 
+30 31
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Eligibility
+1. Regular/ Part Time Programmes  
+A. Faculty of Engineering  
+Master’s degree programme, after 4-year engineering graduation programme, with 
+at least 55% marks in aggregate or 6.0 CGPA on the scale of 10.0 in one of the 
+following areas mentioned in Table 1. 
+Or
+5-year Integrated Master’s degree programme with at least 55% marks in aggregate 
+or 6.0 CGPA on the scale of 10.0 in one of the following areas mentioned in Table 1. 
+ 
+B. Faculty of Science 
+Master’s degree programme, after 3 or 4-year graduation programme, with at least 
+55% marks in aggregate or 6.0 CGPA on the scale of 10.0 in one of the following 
+areas mentioned in Table 1. 
+Or
+4-year Integrated Master’s degree programme with at least 55% marks in 
+aggregate or 6.0 CGPA on the scale of 10.0 in one of the following areas 
+mentioned in Table 1. 
+Or
+NIELIT (DOEACC) C Level Certificate 
+2. Executive Ph. D. Programmes 
+A. Faculty of Engineering 
+Master’s degree programme, after 4-year engineering graduation programme, 
+with at least 55% marks in aggregate or 6.0 CGPA on the scale of 10.0 in related 
+area. The candidate must have minimum of 2 years professional experience after 
+obtaining master degree. 
+Or
+5-year Integrated Master’s degree programme with at least 55% marks in aggregate 
+or 6.0 CGPA on the scale of 10.0 in one of the following areas mentioned in related 
+area. The candidate must have minimum of 2 years professional experience after 6.8 PH.D. IN ENGINEERING AND COMPUTER APPLICATIONobtaining master degree. 
+B. Faculty of Science 
+Master’s degree programme, after 3 or 4-year graduation programme, with at least 
+55% marks in aggregate or 6.0 CGPA on the scale of 10.0 in one of the following areas 
+mentioned in Table 1. The candidate must have minimum of 2 years professional 
+experience after obtaining master degree. 
+Or
+4-year Integrated Master’s degree programme with at least 55% marks in aggregate 
+or 6.0 CGPA on the scale of 10.0 in one of the following areas mentioned in Table 
+1. The candidate must have minimum of 2 years professional experience after 
+obtaining master degree. 
+Or
+NIELIT (DOEACC) C Level Certificate 
+Note:
+• Candidates with minimum 75% marks in 4-year undergraduate degree programmes in one of 
+the areas mentioned above can pursue Ph.D. /Executive Ph.D. programmes directly without 
+master’s degree in related faculty/department  
+• Final year students can also apply, however, admission shall be provisional. 
+• The working professionals, without academic background in CS/ CSE/ IT/ Electronics/ 
+Communication, are eligible to pursue Executive Ph.D. subject to fulfilment of other eligibility 
+criteria mentioned in this document. 
+• The scholars/candidates willing to pursue Executive Ph.D. must have master/bachelor degree 
+in any branch of engineering/science. 
+Criteria for Admission 
+For admission to both categories of Ph.D. programmes, the candidates have to qualify 
+Entrance Test conducted by the NIELIT Deemed to be University. Procedure for admission 
+to Ph.D. Programme will be followed as per the Guidelines approved by the NIELIT 
+Deemed to be University. 
+The criteria for admission to Ph.D. is as under:- 
+1. Those students who have secured 40% marks in the entrance test are eligible to be 
+called for the interview. 
+2. A relaxation of 5% marks will be allowed in the entrance examination for the candidates 
+32 33
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Part  Particular Number of MCQs 
+A Logical reasoning and Aptitude 30 
+B English Language 20 
+C Subject (Domain Knowledge) 50belonging to SC/ST/differently-abled category, Economically Weaker Section (EWS), 
+and other categories of candidates as per the decision of the UGC from time to time.  
+3. NIELIT Deemed to be University may decide the number of eligible students to be 
+called for an interview based on the number of Ph.D. seats available in the respective 
+departments/ approved research centres.  
+The selection of the candidate shall on purely based on interview after Entrance Test. 
+• Exemption from Appearing in Entrance Test 
+NIELIT Deemed to be University shall admit Ph.D. scholars through Entrance Test. 
+However, exemption from Entrance Test will be given to those who have already 
+cleared any of the National Test for the eligibility of lectureship like UGC/ CSIR NET 
+including JRF, GATE, CEED, GPAT, ICMR, ICAR, or any other prestigious test for 
+National level scholarship / fellowship conducted by Govt. of India.  
+Such candidates are required to appear in interview for final selection without Entrance 
+Test. 
+• Scheme to Entrance Test 
+One objective type OMR based written test comprising 100 MCQs of 2 hours’ duration 
+will be conducted. The pattern will be as under.
+Faculty of Science Faculty of Engineering
+Department of Computer 
+Science and ApplicationsDepartment of Computer 
+Science and EngineeringDepartment of Artificial 
+IntelligenceDepartment 
+of Electronics 
+EngineeringDepartment of 
+Electronics and 
+Communication 
+Engineering
+i. Computer Science
+ii. Computer Applications
+iii. Information Technology
+iv. Any Specialized area 
+of Computer Science/
+Computer applications/ 
+Information Technologyi.Information Technology
+ii.Computer Science and 
+Engineering
+ 
+iii.Computer Engineering
+iv.Computer Science and 
+Engineering with specialized 
+area of computer science
+v.Any Specialized area of 
+Computer Science
+vi.Electronics and related 
+subjectsi.Information Technology
+ii.Computer Science and 
+Engineering
+ 
+iii.Computer Engineering
+iv.Computer Science and 
+Engineering with specialized 
+area of computer science
+v.Any Specialized area of 
+Computer Science
+vi.Electronics and related 
+subjectsi. Electronics 
+Engineering with 
+specialized area of 
+Electronics
+ii. Any Specialized 
+area of Electronics 
+and its allied 
+Engineeringi. Electronics &  
+Communication 
+Engineering with 
+specialized area 
+of Electronics/ 
+communication
+ii.  Any Specialized 
+area of Electronics & 
+communication and its 
+allied EngineeringTable 1: Areas for Eligibility for Ph.D. 
+34 35
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Minimum Qualification for Admission
+Must have passed 10+2 or ITI certificate (one year) after matric or successfully completed 
+the second year of a Government recognized polytechnic engineering diploma course 
+after class 10.
+The objective of the course is to equip a student with necessary skills as per following job 
+role.
+1. User Interface (UI) Designer
+2. Web Designer
+3. Web Publication Assistant
+4. Office Automation Assistant
+5. IoT Application Integrator
+Course Recognition
+The ‘O’ Level Certificate is recognized as equivalent to Foundation Level Course by the 
+Government of India for the purpose of employment vide Notification No. 43 & 49 dated 1st 
+March, 1995 and 10th April, 1996 respectively issued by the Ministry of HRD, Government 
+of India.
+ 
+Admission Test
+The selection for admission to these courses is mainly on the basis of a general aptitude 
+written test of XII standard.By undergoing the Awareness in Computer Concepts (ACC), one should be able to acquire 
+basic knowledge on computer & its usage by understanding the following skills:
+• How to operate the elements of a computer
+• Perform basic operations on the computer
+• Create, edit and format documents using a word processor
+• Access the Internet and finding information of interest
+• Register for a web-based e-mail account and using it, Opening of e-mail attachments
+• Understanding Financial Literacy
+• Digital Literacy to understand the concept of Online Banking
+• Understanding the available e-Governance Services
+The module on financial literacy will enable the individuals to understand the various 
+financial services and be aware of the various schemes of Government of India7. CURRICULUM FOR NON-FORMAL COURSES
+8. DIGITAL LITERACY COURSES7.1 O-LEVEL IT
+Minimum Qualification for Admission
+10+2 Passed (any stream) or ITI (One year after 10 passed) in Electrical/Electronics/
+Computers/Instrumentation Engineering.7.2 CHMTThe objective of the Diploma in Computer Hardware Maintenance (CHMT) Course is to 
+train 10+2 qualifiers to acquire basic knowledge in Computer Hardware & Peripherals 
+for installation, troubleshooting & maintenance including system software management 
+and its back up and to undertake disaster prevention, diagnosis and rectification of faults 
+besides personality development and communication skills.
+After the successful completion of course the candidate may be employed as Technicians 
+(PC), Assistant System Administrators, Lab Demonstrators, troubleshooters etc.
+Course Recognition
+Diploma in CHMT is recognized by NIELIT and all the coordination and certifications are 
+provided by NIELIT Aurangabad (Nodal Agency).
+ Admission Test
+The selection for admission to these courses is mainly on the basis of a general aptitude 
+written test of XII standard or based on the X and XII standard marks.
+8.1 AWARENESS COMPUTER COURSE (ACC)
+36 37
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Eligibility
+No minimum qualification is required for applying and appearing for the examination in 
+course on Awareness of Computer Concepts (ACC).
+Duration
+20 Hours - (Theory: 9 hrs + Practical: 11 hrs)
+In step with effort to achieve the objective of achieving computer literacy in an inclusive 
+manner, NIELIT has launched a new programme, “Basic Computer Course (BCC)”. The 
+objective of the course is to impart basic level computer appreciation programme with 
+more emphasis on hands on training. Initially, the course was conceived as to boost 
+the concept of introducing a course on computer fundamentals, especially for students, 
+studying vocational courses at ITIs/ITCs. However, the course has gained popularity 
+amongst many more categories. The BCC was launched in year 2011. The programme 
+can equip a person to use the computers in day-to-day life for professional and personal 
+use. After completing the course the incumbent will be computer literate and will be able 
+to:
+• Acquire confidence in using computer techniques available to users;
+• Recognize the basic components of computers and terminology;
+• Understand data, information and file management;
+• Create documents using Word processor, Spreadsheet & Presentation Software;
+• Understand computer networks, Internet;
+• Browse the internet, content search, email and collaborate with peers;
+• Use e-Governance applications;
+• Use computer to improve existing skills and learn new skills.
+Eligibility
+No specific educational qualifications
+Duration
+The total duration of the course is 36 hours, consisting theory, tutorials & Practical.This course is designed to aim at imparting a basic level IT Literacy programme for the 
+common man. This programme has essentially been conceived with an idea of giving 
+an opportunity to the common man to attain computer literacy thereby contributing to 
+increased and speedy PC penetration in different walks of life. After completing the course 
+the incumbent should be able to the use the computer for basic purposes of preparing 
+his personnel/business letters, viewing information on internet (the web), receiving and 
+sending mails, preparing his business presentations, preparing small databases etc. This 
+helps the small business communities, housewives, etc. to maintain their small accounts 
+using the computers and enjoy in the world of Information Technology. This course is, 
+therefore, designed to be more practical oriented.
+Eligibility
+No specific educational qualifications
+Duration
+The total duration of the course is 80 hours, consisting theory, tutorials & Practical
+Examination
+Examination for the CCC is conducted by the NIELIT online 1st Saturday of every month 
+(except January). There are many online Examination centres throughout the country. In 
+Manipur State, Examination Centres are at NIELIT Imphal and its Extension Centres at 
+Churachandpur & Senapati.8.2 BASIC COMPUTER COURSE (BCC)8.3 COURSE ON COMPUTER CONCEPT (CCC)Examination
+Examination for the BCC is conducted by the NIELIT online 1st Saturday of every month 
+(except January). There are many online Examination centres throughout the country. In 
+Manipur State, Examination Centres are at NIELIT Imphal and its Extension Centres at 
+Churachandpur & Senapati.
+38 39
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Sl 
+No.Chapter Theory 
+HoursTutorial 
+HoursPractical 
+Hour
+1 Introduction to computer 2 1 4
+2 Introduction to GUI Based 
+Operating System3 - 8
+3 Elements of Word 
+Processing3.5 2 9
+4 Spreadsheets 3.5 2 10
+5 Introduction to Internet, 
+WWW and web browsers6 - 8
+6 Communication and 
+Collaboration2 - 2
+7 Application of 
+presentations4 - 8
+8 Application of Digital 
+Financial Services1 - 1
+Total: 25 5 50Course structure
+The objective of FSP was to create a re-skilling /up-skilling ecosystem in emerging and 
+futuristic technologies to facilitate continuous enhancement of skills as well as knowledge 
+of IT professionals in line with their aspirations and aptitude. 
+The goal of the program is to 
+• Build an industry-led, government approved skilling ecosystem to equip learners 
+to be employable and stay relevant, and, 
+• To create India digital talent stack to accelerate India on the journey towards 
+building skills and becoming the global hub of talent for emerging technologies.
+Courses Offered
+1. Bootcamp Courses (BCMP) on Big Data and Data Science
+2. Government Officer Training- Basic (GOT-B) on Big Data and Data Science
+3. Government Officer Training – Advance (GOT-A) on Big Data and Data Science
+The beneficiaries targeted for the programs shall fall into the following categories, 9. CURRICULUM FOR JOB ORIENTED AND SKILL 
+DEVELOPMENT COURSES
+9.1 FUTURESKILLS PRIME(i) Career Aspirants, (ii) Employment Seekers, (iii) Non-IT Employees (cross-pollinated 
+digital roles), (iv) PSE Employers, (v) IT Employees (IT & Non-IT Sector) 
+Guidelines for Bootcamp - Big Data & Data Science
+Objective
+• The primary objectives of the bootcamp are as follows: 
+• To provide participants with a comprehensive understanding of the specific 
+emerging technology. 
+• To enable participants to develop practical skills through hands-on learning 
+activities. 
+• To foster a collaborative learning environment where participants can engage with 
+instructors and peers. 
+• To empower participants to apply their knowledge to real-world scenarios and 
+projects. 
+• To empower participants to identify opportunities for implementation of skills within 
+their organizations, self-driven activities etc. 
+Eligibility
+1. Career Aspirants 
+2. Employment Seekers
+3. Non-IT Employees (cross-pollinated digital roles)
+4. Public Sector Enterprise (PSE) Employers 
+5. T Employees (IT & Non-IT Sectors) 
+Intake:  25 preferably.
+Minimum program duration : 5 Days (40 Hours) 
+Mode of conduction:  The mode of conduction for the Bootcamp shall be Physical/Virtual 
+Instructor-Led Training (VILT) with online/offline learning resources.
+Guidelines for GoT-Basic (GOT-B) – Big Data and Data Science
+Objective
+The primary objectives of the GoT-B are as follows: 
+• To provide participants with a comprehensive understanding of the specific 
+40 41
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26emerging technology. 
+• To enable participants to develop practical skills through hands-on learning 
+activities and equip beneficiaries with the knowledge and skills needed to thrive in 
+the rapidly evolving landscape of the respective emerging technology. 
+• To foster a collaborative learning environment where participants can engage with 
+instructors and peers. 
+• To empower participants to identify opportunities for implementation of learner 
+skills within their organizations. 
+• To empower participants to apply their knowledge to real-world scenarios and 
+projects at his/her organisation. 
+Participant Eligibility:  The Participant Eligibility for the GoT-B are employees in Central/ 
+State government, PSUs and Autonomous organizations who are involved in IT/ITeS and 
+related areas.
+Intake:  25 preferably.
+Minimum program duration:  30 Hours (5 Days) 
+Mode of conduction:  The mode of conduction for the GoT-B shall be Physical/Virtual 
+Instructor-Led Training (VILT) with online/offline learning resources.
+Guidelines for GoT-Advanced (GOT-A) – Big Data and Data Science
+Objective:  The primary objectives of the GoT-A are as follows: 
+• To provide participants with a comprehensive understanding of the specific 
+emerging technology. 
+• To enable participants to develop practical skills through hands-on learning 
+activities and equip beneficiaries with the knowledge and skills needed to thrive in 
+the rapidly evolving landscape of the respective emerging technology. 
+• To foster a collaborative learning environment where participants can engage with 
+instructors and peers. 
+• To empower participants to identify opportunities for implementation of learner 
+skills within their organizations, self-driven activities etc. 
+• To empower participants to apply their knowledge to real-world scenarios and 
+projects at his/her organisation. Participant Eligibility: The Participant Eligibility for the GoT-A are employees in Central/ 
+State government, PSUs and Autonomous organizations who are involved in IT/ITeS 
+and related areas to keep abreast with the emerging technologies and get their internal 
+technical manpower trained. 
+Intake : 25 preferably.
+Minimum program duration:  40 Hours (5 Days)
+Mode of conduction:  The mode of conduction for the GoT-A shall be Physical/Virtual 
+Instructor-Led Training (VILT) with online/offline learning resources
+Job Opportunities:
+Career opportunities in Big Data are numerous and are suitable for any given individual 
+depends on interests, career path, skills and abilities. Some well-known Big Data career 
+paths are:1. Data Analyst.
+2. Data Scientist.
+3. Data Engineer4. Data Modeler.
+5. Data Architect.
+6. Business Analyst and many more.
+Big Data BootCamp
+
+42 43
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-269.2 PMKVY
+NIELIT IMPHAL
+Sl no. QUALIFICATION NAME NSQF LEVEL SECTOR
+1 Foundation course in Artificial Intelligence 
+Application4 IT-ITeS
+2 Internet of Things(IOT) Assistant 3 Electronics & 
+Hardware
+3 Basics of Python Programming 3 IT-ITeS
+4 Basics of Artificial Intelligence and Data 
+Science3.5 IT-ITeS
+5 Product of Assembly Assistant (Solar-LED) 3 Electronics
+NIELIT CHURACHANDPUR
+1 Basics of Python Programming 3 IT-ITeS
+NIELIT SENAPATI
+1 Basics of Python Programming 3 IT-ITeS9.3.1 Post Graduate Diploma in Unmaned Aircraft system Programing
+Course Duration:  900 Hours
+Eligibility:  Graduate in any discipline of Engineering/ MCA/ MCM/ Post Graduate 
+Degree in Physics/Mathematics/Statistics/Post Graduate Degree in Management with 
+Graduation in IT/Computer Science/Computer Applications.
+Syllabus Outline:  Introduction to UAS, Programming Concepts on Java Programming 
+and Python programming, Data Collection and Management, Data Processing, Analytics 
+and Visualization, Machine Learning & Reinforcement Learning, Computer Vision, 
+Image Processing with Neural Network, Introduction to Microcontrollers, Sensors and 
+IoT protocols, Fundamental Principles for Drone Design & Prototyping, GIS Component 
+for UAS, Source Control and Hosting Environments, Aptitude & Effective Communication 
+and final Project
+Certification and Examination:  Individual assessment agencies will create unique 
+question papers for theory part for each candidate at each examination/training center. 
+To pass the Qualification Pack, every trainee should score a minimum of 60% in every 
+NOS.
+Job Opportunities:  Placement in C-DAC9.3 DRONE/UNMANED AIRCRAFT SYSTEM
+Hands-on Traning Session
+UAV Design and Assembly
+44 45
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-269.3.1 Post Graduate Diploma in Unmaned Aircraft system Programing
+Course Duration:  40 Hours
+Eligibility for Graduate:  a) Passed out Graduates/Post Graduates (b) Students Pursuing 
+Graduation/Post-Graduation Degree in Science/Engineering Domain
+Eligibility for Diploma:  (a) Passed out Diploma/ITI/Polytechnic Candidates (b) Students 
+Pursuing Diploma/ITI/Polytechnic Courses after 10th/12th 
+NSQF Level:  4
+Syllabus Outline:  Introduction to UAV, History of UAV, UAS Control architecture and 
+evolution of control design technics, Classification of UAV, Quadcopter Drone: Frame, 
+Driving unit, Communication unit, Off-Board unit, Flight Controller Board, Battery. 
+Working of Quadcopter, How to Assemble a Quadcopter Drone.
+Certification and Examination:  The assessment for the Theory part will be set for 30 
+marks in MCQ and will be conducted in the training Centre.
+10. PLACEMENTS PROFILES
+1. ABB India Ltd.,Faridabad 
+2. Indian Railways,Calcutta
+3. Acadamy of Computer & Electronics 
+Centre, Mizoram 
+4. Irrigation & Flood Control
+5. Department (IFCD), Govt. of Manipur
+6. ADCO,Calcutta
+7. ITC Infotech India Limited, Pune
+8. Avery India Ltd.,Faridabad ,Guwahati 
+9. Johnson & Johnson,Calcutta
+10. Advance Training Institute(EPI), Dehradun
+11. J.K. Telecom, Guwahati
+12. Airport Authority of India
+13. KLA Electronics Pvt. Ltd. New Delhi
+14. Airtel
+15. Manipur Police Wireless, Imphal
+16. All India Radio, Imphal
+17. Metro Railways, Delhi
+18. AMARAANTA, SOFTEK,Bangalore
+19. MIT, Manipur
+20. BARC, Trombay
+21. National Airport Authority, Agartala
+22. BARCO ELECTRONICSYSTEMS (P) 
+Ltd.,New Delhi
+23. National Airport Authority, Guwahati24. BEE Canon,Calcutta
+25. National Airport Authority, Dimapur
+26. Bharatiya reserve Bank Note Mudram 
+Ltd.,West Bengal
+27. National Informatic Centre, Itanagar
+28. BhartiAirtel Ltd.
+29. Neotoric Informatic Pvt. Ltd.
+30. Boarder Security Force, New Delhi
+31. NIELIT Shilong
+32. Boarder Road (GREF), Shillong
+33. NIELIT Imphal
+34. Business Advanced Control System, New 
+Delhi
+35. NIELIT Senapati
+36. Bihar Electricity Board,Bihar
+37. NIELIT Churchandpur
+38. BSNL, Darbhanga
+39. NIC Shilong
+40. BSNL, Imphal
+41. NIC Imphal
+42. BSF
+43. NIC Arunachal
+44. CLOUDZACK Pvt. Ltd
+45. Nokia Siemens Network
+46. Continental Device India Ltd.New Delhi47. Nortel Networks Pvt. Ltd., Gurgaon
+48. Copper Connection,New Delhi
+49. NRHM Data Block Manager
+50. Calcom India Ltd. New Delhi
+51. Professor (Tejpur University)
+52. CMC Ltd.,New Delhi 
+53. Public Health Engineering Department 
+(PHED), Govt. of Manipur.
+54. Cognizant Technologies Solution P
+55. Ranbaxy
+56. Cubeten, Pvt Ltd., Manipur
+57. Reliance, Imphal
+58. DDK, Dhiphu
+59. Reliance, Shillong
+60. DDK, Imphal
+61. Reliance Infocom Ltd., Patna
+62. DECON Infotech Ltd., Kolkata
+63. Satcon Ltd., Patna
+64. Department of Minor Irrigation, Govt. of 
+Manipur
+65. Secretariat, Govt. of Manipur
+66. DCM Computers
+67. Siemens Ltd., Kolkata
+68. DIPLAST, Noida
+69. Siemens Network Pvt. Ltd.,Bangalore
+70. Directorate of Health Services, Govt. of 
+Manipur
+71. SI Manipur Police
+72. Dr. Shrof Charitable Eye Hospital, Delhi
+73. SRM University, Ahmedabad
+74. DRDA Imphal East
+75. ST Micro Electronics
+76. Eastern Railways
+77. TANDEM Machines, Mumbai
+78. Export House, Faridabad
+79. TATA Tele Services Ltd., Vishakhapatnam
+80. Elnova Ltd. New Delhi
+81. TATA Consultancy
+82. Election Office83. Telco, Tatanagar
+84. Election Department, Govt. of Manipur
+85. Tech. Officer Family Welfare
+86. EMERSON, Chandigarh
+87. Service, Noida
+88. Ericsson India Ltd.New Delhi
+89. Senior Software Developer,Globizs Web 
+Solution Pvt. Ltd.
+90. Ericsson Suden Pvt. Ltd.,Sudan
+91. USHA India Ltd. Faridabad
+92. FCI, Shilong
+93. UB IndiaLtd. New Delhi.
+94. General Administration Department (GAD), 
+Manipur
+95. Secretariat, Govt. of Manipur 
+96. Uniline, Delhi
+97. Godrej & Boyce Mfg. Co.Ltd
+98. United Networks, Sudan
+99. HCL, Calcutta
+100. Uniword Telecom Limited, Noida
+101. Idea
+102. VSNL
+103. India SATCON Ltd, Patna
+104. Zenith Computer Ltd
+105. Indian Railway,Baroda
+106. Microtech Software Private Limited
+107. Indian Navy
+108. COFFEEDAY BEVERAGES
+109. India Airforce
+110. Classic Group of Hotels
+111. India Post
+112. JCRE
+113. India Documents Soln Ltd, Delhi
+114. Likla
+115. Intel Corporation Pvt. Ltd.New Delhi
+116. MGT Motors
+117. INFOSYS, Bangalore
+118. Religare Health Insurance
+46 47
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-2610. HOSTEL FACILITIES
+Separate Hostels are available for Boys and Girls. Boys’ hostel. The seats are allocated 
+on the basis of necessity. Hostel mess is managed by a contractor. The monthly mess bill 
+works out to about Rs 3,500/. The Institute provides medical facilities to the students and 
+residents in the campus by employing a resident doctor in the campus who is assisted 
+by a trained nurse from time to time. Common medicines are provided free of cost. The 
+Govt. Primary Health Centre is located just 500 meters away from the NIELIT campus at 
+Akampat. In case of emergency, the institute arranges hospitalization of the patient and 
+informs his guardian /parents.
+Hostel Fees
+Hostellers have to deposit the following fees:
+1. Fees at the time of admission
+2. Fess for Subsequent Semester
+5,000/- against Room rent and hostel maintenance fee per semester.Sl. Particulars Amount
+1 Room rent and hostel 
+maintenance feeRs 5,000/-
+2 Hostel caution money 
+(Refundable)Rs 1,500/-
+Total Rs 6,500/-
+Sl. Particulars Capacity
+1 New boys hostel 100
+2 New girls hostel 100
+3 Old boys hostel 60
+4 Old girls hostel 60
+Total 320Hostel Capacity
+New Girls Hostel
+New Boys Hostel
+48 49
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26NIELIT Imphal and its Extension Centre follow five working days in a week from Monday 
+to Friday. In addition, the Institute follows the Schedule of holidays as per the rules of 
+the Government of India and Central Government Employees Welfare Coordination 
+Committee (CGEWCC), Manipur. The working hour is from 9:00 a.m to 5:30 p.m. However, 
+the classes are held between 7.00 am and 5.30 pm with special arrangements.11. WORKING HOURS AND HOLIDAY
+The students of the Centre participate in the various types of sports. Out of them Cricket, 
+Volleyball, Badminton, Carom and Chess are quite popular. The students of the Centre also 
+participate in Inter-College Sports events as well as All India Inter university Sports events. 
+Many of the students of this Centre 
+bagged medals in the State Level as 
+well as National Level Sports events. 
+Not only in sports events, students of 
+this Centre also participated in much 
+other State Level competition like IT 
+Talent Search, Debating Competition, 
+Essay Writing Competition, etc. and 
+bagged prizes. In fact, students of this Centre are showing excellent performance in many 
+other fields  also. In addition to these, cultural programs, Swachh Bharat Abhiyans are 
+performed jointly by the students and staff on a regular basis.12. EXTRACURRICULAR ACTIVITIES
+INTER COLLEGE YOGASANA TOURNAMENT
+STUDENTS AT VARIOUS COMPITIONSALUMNI MEET
+CYBRELLA 2025
+
+50 51
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Churachandpur Extension Centre of NIELIT Imphal was setup under the project 
+“Development of North-Eastern Region by enhancing the Training/Education capacity in the 
+IECT area”. The Centre was formally inaugurated by Secretary, Ministry of Communications 
+& Information Technology, 
+Govt. of India on 19th 
+August, 2013 through video 
+conferencing in presence 
+of Deputy Commissioner, 
+Churachandpur District. The 
+Centre became operational 
+since January, 2013. Till date 
+the Centre has trained 2500 
+students.
+Location and Connectivity
+The Centre was previously located at the temporary location at Hill Town and since 
+December 2019 it has been shifted to the permanent campus which is of 4.13 acres of land 
+provided by Govt. of Manipur and 
+is located at Tuibong, M.C. Mary 
+Kom ring road, Churachandpur 
+about 800 m from the National 
+Highway and 1.5 Km from district 
+main bus stand. The campus is 
+surrounded by the Govt. offices 
+like Post Office, Fire Department, 
+District Court, Deputy Commissioner’s office, District magistrate etc.
+Infrastructure & Facilities
+The Institute have the infrastructure like Academic Block, Administrative Block, Girl’s 
+Hostel-cum-resident Faculty Quarter, Cafeteria, Car Parking, Playground etc.13. NIELIT CHURACHANDPUR EXT. CENTRE
+At present the Centre has the following facilities:
+• Five (5) Computer Labs which has a total of
+• 100 branded computers. All the labs are well- furnished and equipped with 
+Projection System, whiteboard and furniture. The Computers are connected to 
+LAN through a server and they are regularly upgraded to the latest software.
+• One Computer hardware-cum-electronics lab equipped with latest electronics 
+devices like Spectrum analyzer, digital power supply, clamp meter, advanced 
+digital multi meter etc. and has got a dedicated soldering station.
+• Two (2) Classroom of capacity 50 and 30 students and well equipped with 
+whiteboard and projector.
+• The Institute has 24/7 uninterrupted power supply through 3 phase connection 
+and has Backup facility with DG Sets of capacity
+• 160 KVA & 63 KVA and UPS. Apart from these facilities, the Institute has proper 
+indoor and outdoor lighting. All these equipment and facilities are supported by 
+proper electrification works and safety mechanisms.
+• The Centre is connected to Internet 
+through two ISPs (100 Mbps from 
+BSNL and 10 Mbps from a private 
+ISP) and these Internet facility is 
+extended to all the students of the 
+institute.
+• Well-furnished Library with 
+computerized library management 
+systems. Various books on 
+Electronics, Computers and allied field are available. Library is automated by 
+
+52 53
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26LONG TERM COURSE
+SL Name of the Course Eligibility Duration NSQF Level
+1 One year Foundation 
+Course in Information 
+Technology (NIELIT “O” 
+Level IT”)ITI Certificate passed (1 
+year after class X)1 Year 4
+SHORT TERM CERTIFICATE COURSES
+SL Name of the Course Eligibility Duration NSQF Level
+1 Course on Computer 
+Concepts (CCC)Knowledge of reading 
+and writing in English.90 Hrs 2
+2 Certified Data Entry and 
+Office Assistant (Upskilling)12th pass with Min 50 % 
+Marks210 Hrs 3
+3 Certified Computer 
+Application Accounting and 
+Publishing Assistant12th pass with 
+knowledge of Basic 
+Computer and Internet 
+Concepts.360 Hrs 3
+4 Computer Applications 
+Associate12th pass 450 Hrs 4
+5 ITES BPO Executive - Voice Graduate/ Post 
+Graduate with good 
+communucation skills330 hrs 3NIELIT Senapati an 
+Extension Centre of NIELIT 
+Imphal. It was setup under 
+the project “Development 
+of North-Eastern Region 
+by enhancing the Training/
+Education capacity in the 
+IECT area”. The Centre was 
+formally inaugurated on 
+10th July, 2013 by Deputy 
+Commissioner, Senapati 
+District. The Centre became 
+operational since July, 2013. Till date the Centre has trained more than 5675 students.
+Location and Connectivity
+The Centre was previously located at Broadway Complex in Senapati Bazaar and since 
+October 2019 it has been shifted to the permanent campus which is of 3.60 acres of land 
+provided by Govt. of Manipur and is located at Old District Hospital campus of Senapati 
+district. The permanent campus have administrative block, three (3) well-furnished 
+computer Labs with a total capacity of 100 Computers, Electronics Lab, Hardware Lab, 
+library and Servicing Lab. The Girl’s hostel in the campus is also under construction.
+Infrastructure & Facilities
+At present the Centre has the following facilities:
+• Three (3) Computer Labs which has a total of 50 branded computers. All the labs 
+are well-furnished and equipped with Projection System, Whiteboard and modern 
+furniture. The Computers  are  connected under LAN through a high end server 
+and they are regularly upgraded with the latest software.
+• One (1) hardware lab with the latest and high end Electronics equipment like 
+Spectrum analyzer, digital power supply, clamp meter, advanced digital multi 14. NIELIT SENAPATI EXT. CENTREusing KOHA library software. Internet facility is also available.
+• The Institute is monitored 24/7 by CCTV surveillance cameras.
+• The Institute has Video conference facility.
+• The Institute has a dedicated server to control the network of the Institute.
+Faculties & Staff 
+NIELIT Churachandpur has well experienced and qualified teaching faculty. The faculties 
+undergo trainings from time to time to update their knowledge in various advancements 
+of technologies. Overall administration of the institute is supervised and monitored by 
+the Executive Director. In addition, there are separate Officers-in- charge to oversee the 
+academic section and administrative section.
+Courses Offered & Eligibility  
+At present, the institute offers various long term and short-term courses in the field of IT 
+& related discipline.
+
+54 55
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26meter, True RMS Multi-meter, 
+Digital DC power supply, etc.
+• The institute has 24/7 
+uninterrupted power supply 
+through 3 phase connection 
+DG Sets and UPS Backup 
+facility. All these equipment 
+and facilities are supported by 
+proper electrification works 
+and safety mechanisms.
+• The Centre is connected to Internet through two ISPs (BSNL & Railtel) and these 
+internet facilities is extended to all the  systems/students of the institute.
+• Well-furnished Library with computerized library management systems. Various 
+books on Electronics, Computers and allied field are available.
+• The Institute is monitored 24/7 by CCTV surveillance cameras.
+• The Institute has Video conference facility.
+Faculties & Staff
+NIELIT Senapati has well experienced and qualified teaching faculty. The faculties 
+undergo trainings from time to time to update their knowledge in various advancements 
+of technologies. Overall administration of the institute is supervised and monitored by 
+the Executive Director. In addition, there are separate Officers-in- charge to oversee the 
+academic section and administrative section. 
+Projects developed
+NIELIT SENAPATI EXTENSION CENTRE has developed a web enabled software titled 
+“Students Information Management System” for computerization of student’s related 
+records and works in Schools and Colleges.
+The software will automate Admission process, Admitted students details, Fee payment, 
+Exam Form fill up, Exam result, Promotion Placement record and other related information 
+for a particular student.
+This software will minimize manpower, time and paper works.
+This is an initiative taken by the NIELIT Senapati under Digital India.The software is free for use by the govt. recognized Schools and Colleges in Manipur. A 
+very nominal fee would be charged towards installation and annual maintenance fee if 
+required.
+Extra Co-curricular activities 
+NIELIT SENAPATI EXTENSION 
+CENTRE regularly observes  in 
+the Swachhta Hi Seva  Cleanliness 
+drive.  
+Courses Offered & Eligibility
+LONG TERM COURSE
+SL Name of the Course Eligibility Duration NSQF Level
+1 One year Foundation Course in 
+Information Technology (NIELIT 
+“O” Level IT”)12th pass/10th  pass 
+with ITI1 Year 4
+SHORT TERM CERTIFICATE COURSES
+SL Name of the Course Eligibility Duration NSQF Level
+1 Course on Computer Concepts 
+(CCC)Knowledge of 
+reading and writing in 
+English.90 Hrs 2
+2 Certified Data Entry and Office 
+Assistant (Upskilling)10th pass with CCC 210 Hrs 3
+3 Certified Computer Application 
+Accounting and Publishing 
+Assistant10th pass with 
+knowledge ofBasic 
+Computer and 
+Internet Concepts.360 Hrs 3
+4 Computer Applications 
+Associate12th pass 450 Hrs 4
+5 Certified Web Developer 12th pass/10th pass 
+with ITI210 Hrs 3
+6 Foundation course in Information 
+SecurityNIELIT O Level(IT) 90 Hrs 4
+7 Foundation course in Machine 
+Learning using PythonNIELIT O Level(IT) 90 HRS 4
+PMKVY COURSES
+1 Basics of Python Programming NIELIT O Level(IT) 90 Hrs 4
+
+56 57
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Students can apply for admission through any of the following URL links:
+• https://nielit.ac.in/
+STEP 1 : Please click on “APPLY” on the home page of the NIELIT University.
+STEP 2:  You will be directed to a new page having an Admission Portal. Below the HOME 
+there is a “Student Registration”. Please click on that.
+STEP 3:  Registration
+When you click the “APPLY” you will be shown a Student Registration asking for some 
+details. Fields for information which is mandatory is marked with “Red colored bullets”. 15. HOW TO APPLY FOR ADMISSIONOnce you fill the details, you can click “Create New Account” button at the bottom for 
+completing the registration process.
+Here mobile number and email ID is sensitive. Once you fill the email ID, you can click on 
+the “verify” button. An OTP will send to your email ID, then check and fill the OTP to verify 
+your email.
+On successful submission of registration details, you would be shown a confirmation 
+message on the screen.
+STEP 4:  Student login
+Once your account has been created, You can login into the programme.
+Your password is last four digits of aadhaar no and DDMM of date of birth. for example, if 
+aadhaar is 123456789123 and date of birth is 03/06/2008 then password will be 91230306
+Scan here for
+ Link
+
+58 59
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26STEP 5:  Registration form
+After student login please click on the “registration form” button at the bottom of the page.
+When you click “Registration form” you will be shown Student Registration form asking for 
+various details.
+Once you fill the details, you can click on “save details” and go to “candidate marks”
+STEP 6:  Candidate Qualification
+Please click on the “Add New Qualification” button and fill the details
+Once you fill the details. Please click on the “Save Qualification” button. And go to 
+Candidate PreferenceNOTE: You can add multiple Qualification details by clicking “Add New Qualification” 
+button.
+STEP 7:  Student Preferences
+When you click on “Candidate preference” you will be shown preference of NIELIT Centre 
+and Course name.
+Select your preference of the centre and the course name from the drop-down list.
+Once you fill the fields, please click on the “Save Preferences” and go to “Upload document”.
+
+60 61
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26STEP 8:  Upload Documents
+Once you click on the “Upload Documents” button you will be direct to a new page “Upload 
+Photograph, Signature & Required Documents”.
+Upload all the required documents and please click on the “Save Uploaded Documents” 
+button. And click on the “Check your form” button.
+NOTE:
+• For Passport Size Photograph and Signature image files, allowed image file formats are .jpg,.png,.gif,.
+JPG,.PNG,.GIF,.jpeg,.JPEG.
+• Allowed Image File Size for each file is Maximum 100 KB .
+• For Combined Documents Single PDF (including Certificates of Category, 10th, 12th, Graduation, Post-
+Graduation etc., Entrance Exam cleared e.g. UGC NET etc. and Medical Certificate/Scribe in case of 
+PWD.) file, Allowed PDF File Size is Maximum 5 MB.
+STEP 9:  Check Your Form
+Here you can check all information which 
+you have entered in your application 
+process by clicking “REVIEW Online 
+Registration Form”. If everything is OK then 
+click the button “Candidate Undertaking”.
+STEP 10:  Candidate Undertaking
+Please tick on the “I AGREE” and click on 
+the button “Proceed to SUBMIT FINAL 
+Application”.
+NOTE: After Submission, you won’t be allowed to 
+make changes in your online application
+STEP 11:  Make online payment
+After that system will show you the 
+“Proceed to Pay” button to complete 
+the payment. Click the button to make 
+payment.
+On clicking you will see the following screen.
+On clicking “Proceed to pay” you will see the following 
+screen.
+You have option of paying Online Fees [ Using Credit card/
+Debit Cards / Net Banking] through payment gateway 
+available on the portal.
+Once you click “Make Payment” button then system will go 
+for the payment to your banking website. After successful 
+payment you will get payment successful receipt. And your 
+application is complete.
+After successful payment you can take the print of the form 
+and save for future correspondence.
+THIS COMPLETES THE ONLINE APPLICATION FORM SUBMISSION
+Interested students can also visit the following NIELIT Centres for online application 
+form submission along with Original Certificates & documents as stated above.
+1. NIELIT Imphal, Akampat, Imphal East, Manipur - 795001
+2. NIELIT Churachandpur Ext. Centre, MC Marry Kom Ring Road, Tuibong, 
+Churachandpur - 795128
+3. NIELIT Senapati Ext. Centre, Near Old District Hospital, Senapati- 795106.
+
+62 63
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26List of Students who are qualified in UGC NET 2024 (Dec)
+1. PAIKHOMBA MOIRANGTHEM (MSc.IT 2024 Passed out) - Qualified for Ph.D. 
+2. KANISHKA KONJENGBAM (MSc.IT 4th Sem 2025) - Qualified for Ph.D. & Asst. 
+Professor
+3. AKOIJAM PURNARAJ SINGH (MSc.IT 4th Sem 2025) - Qualified for Ph.D.
+LIST OF MERITORIOUS AWARDEES FOR 
+ACADEMIC EXCELLENCE - 202416. NIELIT ACHIEVERS
+BCA 2023( May) Examination in order of merit
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 20100 LAIRENMAYUM RAJA MEITEI 85.1 5000
+2 2nd 20059 VIDYANANDA LAIMAYUM 84.6 3000
+3 3rd 20162 HUININGSHUMBAM 
+SANAYAIMA DEVI82.5 1500
+BCA 2024 (May) Examination in order of merit 
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 21029 THANGJAM YAIKHOMBA 84.1 5000
+2 2nd 21038 DHANESHWORI 
+KHWAIRAKPAM79.1 3000
+3 3rd 21150 MOIRANGTHEM MALSAWM 
+SINGH78.8 1500
+MCA 2023(June) Examination (old) in order of merit 
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 2087 CHINGKHEINGANBA 
+THOUDAM82.3 5000
+2 2nd 2069 LAISHRAM THADOI DEVI 81 3000
+3 3rd 2088 MD NASIR KHAN 79.7 1500
+MCA 2024(June) Examination (old) in order of merit
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 2192 TOURLIN SINGH THOKCHOM 79.6 5000
+2 2nd 2187 KEISHAM MEIRABA 76.7 3000
+3 3rd 2174 MOIRANGTHEM KELIFIN 
+SINGH76 1500MCA 2 Years ( June 2024 ) New  in order of merit
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 2250071 STALIN SAGOLSEM 80.3 5000
+2 2nd 2250079 CHINGTHAM BALESHWOR 
+SINGH78.3 3000
+3 3rd 2250073 AMOM BHASKAR SINGH 77.8 1500
+MScIT 2023(June) Examination   in order of merit 
+Sl. No Position Examination 
+Roll NoStudent %
+1 1st 21001 THOUNAOJAM KARNAJIT 
+SINGH77.5 5000
+2 2nd 21003 NK KENCHIANGWILIU 73.4 3000
+3 3rd 21002 SHANCHUILA KASOMWOSHI 75.45 1500
+MScIT 2024 (June) Passed out (only NIELIT Imphal)
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 22011 KONJENGBAM AMARJIT 
+SINGH81.1 5000
+2 2nd 22006 GYANESHWOR 
+KONJENGBAM78.7 3000
+3 3rd 22001 CHAM CHAM PAMEI 77.7 1500
+DIPLOMA IN COMPUTER SC. & ENGG (2023 PASSED OUT)  in order of merit 
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 204008 UMA GOLMEI 79.56 5000
+2 2nd 204001 PUNSHIBA OINAM 76.8 3000
+3 3rd 204004 SHARUNGBAM SHAPHABA 
+SINGH76.48 1500
+DIPLOMA IN COMPUTER SC. & ENGG (2024 PASSED OUT)  in order of merit 
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 214001 KHWAIRAKPAM SANATHOI 
+SINGH82.9 5000
+2 2nd 214007 RIMA HEIKHAM 78 3000
+3 3rd 214012 NINGOMBAM AMAN KUMAR 76.8 1500
+DIPLOMA IN ELECTRONICS AND COMMUNICATION ENGG (2023 PASSED OUT)  in 
+order of merit
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 203040 RAYNIER KAMEI 80.45 5000
+2 2nd 203034 KOIJAM BHOPENDRA SINGH 80.25 3000
+3 3rd 203026 THENGUJAM ANJITA DEVI 79.5 1500
+64 65
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26DIPLOMA IN ELECTRONICS AND COMMUNICATION ENGG (2024 PASSED OUT)  in 
+order of merit
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 213032 SOIHIAMLUNG GOLMEI 76.9 5000
+2 2nd 213031 LALNGAMBA SINGH 
+KHAMNAM76.87 3000
+3 3rd 213038 VIVEX YUMKHAIBAM 76.6 1500
+PGDCA 2023 PASSED OUT  in order of merit 
+Sl. No Position Examination 
+Roll NoName of the Student % Award (in Rs)
+1 1st 22031 LANGPOKLAKPAM 
+CHINGKHEINGANBI CHANU75.36 5000
+2 2nd 22048 THANGGOUSIAM HAUZEL 74.78 3000
+3 3rd 22032 STEPHEN SOROKHAIBAM 74.5 1500
+VARIOUS TRAINNING SESSIONS AND ACTIVITIES 
+THROUGH THE YEARS 
+SEMICONDUCTOR CONFERENCE CS LAB INAUGRATION 
+HEALTHCARE WITH AI INTERACTION WITH IIT-GAUHATI PROFESSORTRAINING POLICE PERSONALS ON CYBER-SECURITY 
+ISEA AWARENESS PROGRAME ON 
+SAFER INTERNET DAY 2025
+ALONG WITH DISTRICT ADMINISTRATIONS
+“An education is the investment with the greatest returns”
+BENJAMIN FRANKLIN
+66 67
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26
+INDUCTION PROGRAME OF M.Tech AI 1st BATCH 2024 TRAINING PROGRAMES AT DIFFERENT LEVELS
+WORKSHOP ON ARTIFICIAL INTELLIGENCE DRONE TECH. DISPLAY AT NICEDT CONFERENCE
+CYBRELLA 2025
+
+68 69
+NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Annexure 1: Multiple Entry Multiple Exit (MEME) Eligibility Chart
+1. Diploma Programmes
+Qualifications Eligibility
+Diploma of Vocation [D.Voc (Engg.)] C.Voc (Certificate of Vocation)
+Diploma Engg. D.Voc (Engg.) in same stream/discipline
+2. UG Programmes
+Qualifications Eligibility
+UG Diploma (Engg.) UG Certificate (Engg.) 
+B.Voc (Engg.) UG Diploma (Engg.) in same stream/discipline
+B.E./B. Tech. B.Voc (Engg.) in same stream/discipline
+UG Diploma UG Certificate, or UG Certificate (Engg.)
+Bachelor Degree UG Diploma, or UG Diploma (Engg.)
+Bachelor’s degree (Honors/ Honors with 
+Research)Bachelor’s Degree (3 year) 
+B.Voc (Engg)
+3. PG Programmes
+Qualifications Eligibility
+M. Tech M.Voc. (Engg.) in same stream/discipline
+M.Sc./MCA PG Diploma, or M.Voc. (Engg.) M.Voc. (Engg.)
+*  If a student, after exiting at lower level from one discipline / stream, wishes to enter in a different 
+discipline / stream, then she/he may be required to fulfil programme specific requirements for 
+admission including earning of credits for bridge courses, etc.
+SWACHH BHARAT
+70
+PROSPECTUS  2025-26
+NATIONAL INSTITUTE OF ELECTRONICS & 
+INFORMATION TECHNOLOGY
+(A Constituent Unit of NIELIT Deemed to be University)
+An Autonomous Scientific Society of Minisstry of Electronics & Information Technology (MeitY), Govt. of India
+Akampat, Imphal - 795001
