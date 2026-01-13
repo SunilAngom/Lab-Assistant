@@ -51,7 +51,7 @@ if "messages" not in st.session_state:
 # UI HEADER
 # ===============================
 st.title("🤖 NIELIT Imphal Lab AI Assistant")
-st.caption("India AI Lab • NIELIT Imphal")
+st.caption("India AI Lab • NIELIT Imphal - Sunil Angom")
 
 # ===============================
 # DISPLAY CHAT
