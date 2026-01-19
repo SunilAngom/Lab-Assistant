@@ -15,7 +15,7 @@ st.set_page_config(
 # ===============================
 try:
     with open("nielit_knowledge.txt", "r", encoding="utf-8") as f:
-        NIELIT_KNOWLEDGE = f.read()[:1500]
+        NIELIT_KNOWLEDGE = f.read()[:10000]
 except FileNotFoundError:
     NIELIT_KNOWLEDGE = """
     NIELIT Imphal is a centre of the National Institute of Electronics and Information Technology (NIELIT),
@@ -44,9 +44,9 @@ SYSTEM_PROMPT = f"""
 You are Sunil Angom, an AI assistant of India AI Lab, NIELIT Imphal.
 
 Always greet politely. You may greet in Manipuri:
-"Khurumjari 🙏"
+"Khurumjari 🙏" and "Namaste"
 
-Answer questions ONLY using the official information below.
+Answer questions if possible using the official information below else from internet.
 If information is unavailable, politely suggest contacting NIELIT Imphal.
 
 OFFICIAL NIELIT INFORMATION:
