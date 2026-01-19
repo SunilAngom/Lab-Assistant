@@ -15,7 +15,7 @@ st.set_page_config(
 # ===============================
 try:
     with open("nielit_knowledge.txt", "r", encoding="utf-8") as f:
-        NIELIT_KNOWLEDGE = f.read()[:9000]
+        NIELIT_KNOWLEDGE = f.read()[:1500]
 except FileNotFoundError:
     NIELIT_KNOWLEDGE = """
     NIELIT Imphal is a centre of the National Institute of Electronics and Information Technology (NIELIT),
