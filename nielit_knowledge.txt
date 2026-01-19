@@ -71,6 +71,15 @@ EXECUTIVE DIRECTOR
 NIELIT IMPHAL
 PROF (DR.) YUMNAM JAYANTA SINGH
 EXECUTIVE DIRECTOR
+
+INDIA  AI COURSES
+The IndiaAI Lab in Imphal is a, specialized artificial intelligence training and research facility established at the National Institute of Electronics and Information Technology (NIELIT) Imphal. It is part of the Government of India's broader IndiaAI Mission, which aims to establish 500+ data and AI labs across Tier 2 and Tier 3 cities to empower youth with AI skills. 
+Sl.Name of the India AI Lab Courses Duration NSQL Level
+1Foundation of Artificial Intelligence Technology 90 hrs 3.5
+2Foundation of Data Science and Analytics 120 hrs 3.5
+3Foundation of Data Curation using Python 120 hrs 3.5
+4Foundation of Data Annotation using Python 120 hrs 3.5
+
 8 9
 NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26NIELIT SOCIETY
 National Institute of Electronics & Information Technology (NIELIT),(erstwhile DOEACC 
@@ -217,13 +226,6 @@ Publishing30/50
 Other reservations include 3% for physically handicapped persons as per Govt. of India 
 rules. However, candidates applying against reserved seats will have to qualify in the 
 admission test.
-INDIA  AI COURSES
-The IndiaAI Lab in Imphal is a, specialized artificial intelligence training and research facility established at the National Institute of Electronics and Information Technology (NIELIT) Imphal. It is part of the Government of India's broader IndiaAI Mission, which aims to establish 500+ data and AI labs across Tier 2 and Tier 3 cities to empower youth with AI skills. 
-Sl.Name of the India AI Lab Courses Duration NSQL Level
-1Foundation of Artificial Intelligence Technology 90 hrs 3.5
-2Foundation of Data Science and Analytics 120 hrs 3.5
-3Foundation of Data Curation using Python 120 hrs 3.5
-4Foundation of Data Annotation using Python 120 hrs 3.5
 
 14 15
 NIELIT Deemed to be University, Imphal PROSPECTUS  2025-26Topper students and students who secured high marks in the University exams are 
@@ -1670,5 +1672,6 @@ INFORMATION TECHNOLOGY
 (A Constituent Unit of NIELIT Deemed to be University)
 An Autonomous Scientific Society of Minisstry of Electronics & Information Technology (MeitY), Govt. of India
 Akampat, Imphal - 795001
+
 
 
